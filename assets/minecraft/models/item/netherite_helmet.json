@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_helmet"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1220001}, "model": "item/pris/helmet_pris"}
+	]
+}

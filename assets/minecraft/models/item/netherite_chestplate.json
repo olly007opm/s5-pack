@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/netherite_chestplate"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1220002}, "model": "item/pris/chestplate_pris"}
+	]
+}

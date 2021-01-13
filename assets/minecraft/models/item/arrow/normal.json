@@ -1,0 +1,7 @@
+{
+    "parent" : "item/generated",
+    "textures": {
+        "particle": "item/arrow",
+        "texture": "item/arrow"
+    }
+}

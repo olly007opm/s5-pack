@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/written_book"
+    },  
+    "overrides": [
+        { "predicate": { "custom_model_data": 221}, "model":"item/letter/written-letter"},
+        { "predicate": { "custom_model_data": 223}, "model":"item/letter/black-written-letter"},
+        { "predicate": { "custom_model_data": 225}, "model":"item/letter/red-written-letter"},
+        { "predicate": { "custom_model_data": 227}, "model":"item/letter/green-written-letter"},
+        { "predicate": { "custom_model_data": 229}, "model":"item/letter/brown-written-letter"},
+        { "predicate": { "custom_model_data": 231}, "model":"item/letter/blue-written-letter"},
+        { "predicate": { "custom_model_data": 233}, "model":"item/letter/purple-written-letter"},
+        { "predicate": { "custom_model_data": 235}, "model":"item/letter/cyan-written-letter"},
+        { "predicate": { "custom_model_data": 237}, "model":"item/letter/light_gray-written-letter"},
+        { "predicate": { "custom_model_data": 239}, "model":"item/letter/gray-written-letter"},
+        { "predicate": { "custom_model_data": 241}, "model":"item/letter/pink-written-letter"},
+        { "predicate": { "custom_model_data": 243}, "model":"item/letter/lime-written-letter"},
+        { "predicate": { "custom_model_data": 245}, "model":"item/letter/yellow-written-letter"},
+        { "predicate": { "custom_model_data": 247}, "model":"item/letter/light_blue-written-letter"},
+        { "predicate": { "custom_model_data": 249}, "model":"item/letter/magenta-written-letter"},
+        { "predicate": { "custom_model_data": 251}, "model":"item/letter/orange-written-letter"},
+        { "predicate": { "custom_model_data": 253}, "model":"item/letter/white-written-letter"},
+        { "predicate": { "custom_model_data": 255}, "model":"item/letter/fancy-red-written-letter"},
+        { "predicate": { "custom_model_data": 257}, "model":"item/letter/fancy-green-written-letter"},
+        { "predicate": { "custom_model_data": 259}, "model":"item/letter/fancy-blue-written-letter"},
+        { "predicate": { "custom_model_data": 261}, "model":"item/letter/fancy-purple-written-letter"}
+    ]
+}

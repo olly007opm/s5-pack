@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 18001}, "model": "item/brushes/copy"},
+
+
+    {"predicate": { "custom_model_data": 1008}, "model": "custom/minerals/platinum/platinum"},
+
+    {"predicate": { "custom_model_data": 1012}, "model": "custom/minerals/ruby/ruby"},
+
+    {"predicate": { "custom_model_data": 2300}, "model": "custom/misc_blocks/crystals/blue/blue_crystal_item"},
+    {"predicate": { "custom_model_data": 2301}, "model": "custom/misc_blocks/crystals/green/green_crystal_item"},
+    {"predicate": { "custom_model_data": 2302}, "model": "custom/misc_blocks/crystals/orange/orange_crystal_item"},
+    {"predicate": { "custom_model_data": 2303}, "model": "custom/misc_blocks/crystals/purple/purple_crystal_item"},
+    {"predicate": { "custom_model_data": 2304}, "model": "custom/misc_blocks/crystals/red/red_crystal_item"},
+    {"predicate": { "custom_model_data": 2305}, "model": "custom/misc_blocks/crystals/white/white_crystal_item"},
+    {"predicate": { "custom_model_data": 2306}, "model": "custom/misc_blocks/crystals/yellow/yellow_crystal_item"}
+
+  ]
+}

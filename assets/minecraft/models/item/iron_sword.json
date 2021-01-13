@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/iron/longsword_iron"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/iron/katana_iron"},
+		{"predicate": {"custom_model_data":1000003}, "model": "item/iron/scythe_iron"},
+		{"predicate": {"custom_model_data":1000004}, "model": "item/iron/spear_iron"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/iron/rapier_iron"},
+		{"predicate": {"custom_model_data":1000006}, "model": "item/iron/knife_iron"},
+		{"predicate": {"custom_model_data":1000007}, "model": "item/misc/chorus"}
+	]
+}

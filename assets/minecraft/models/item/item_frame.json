@@ -1,0 +1,174 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  },
+
+  "overrides": [
+    {"predicate": { "custom_model_data": 1000}, "model": "custom/minerals/diamond/diamond_brick"},
+    {"predicate": { "custom_model_data": 1001}, "model": "custom/minerals/diamond/diamond_pillar"},
+
+    {"predicate": { "custom_model_data": 1002}, "model": "custom/minerals/emerald/emerald_brick"},
+    {"predicate": { "custom_model_data": 1003}, "model": "custom/minerals/emerald/emerald_pillar"},
+
+    {"predicate": { "custom_model_data": 1004}, "model": "custom/minerals/gold/gold_brick"},
+    {"predicate": { "custom_model_data": 1005}, "model": "custom/minerals/gold/gold_pillar"},
+
+    {"predicate": { "custom_model_data": 1006}, "model": "custom/minerals/iron/iron_brick"},
+    {"predicate": { "custom_model_data": 1007}, "model": "custom/minerals/iron/iron_pillar"},
+
+    {"predicate": { "custom_model_data": 1009}, "model": "custom/minerals/platinum/platinum_block"},
+    {"predicate": { "custom_model_data": 1010}, "model": "custom/minerals/platinum/platinum_brick"},
+    {"predicate": { "custom_model_data": 1011}, "model": "custom/minerals/platinum/platinum_pillar"},
+
+    {"predicate": { "custom_model_data": 1013}, "model": "custom/minerals/ruby/ruby_block"},
+    {"predicate": { "custom_model_data": 1014}, "model": "custom/minerals/ruby/ruby_brick"},
+    {"predicate": { "custom_model_data": 1015}, "model": "custom/minerals/ruby/ruby_pillar"},
+
+
+    {"predicate": { "custom_model_data": 2000}, "model": "custom/misc_blocks/concrete/concrete_bricks_black"},
+    {"predicate": { "custom_model_data": 2001}, "model": "custom/misc_blocks/concrete/concrete_bricks_blue"},
+    {"predicate": { "custom_model_data": 2002}, "model": "custom/misc_blocks/concrete/concrete_bricks_brown"},
+    {"predicate": { "custom_model_data": 2003}, "model": "custom/misc_blocks/concrete/concrete_bricks_cyan"},
+    {"predicate": { "custom_model_data": 2004}, "model": "custom/misc_blocks/concrete/concrete_bricks_gray"},
+    {"predicate": { "custom_model_data": 2005}, "model": "custom/misc_blocks/concrete/concrete_bricks_green"},
+    {"predicate": { "custom_model_data": 2006}, "model": "custom/misc_blocks/concrete/concrete_bricks_light_blue"},
+    {"predicate": { "custom_model_data": 2007}, "model": "custom/misc_blocks/concrete/concrete_bricks_light_gray"},
+    {"predicate": { "custom_model_data": 2008}, "model": "custom/misc_blocks/concrete/concrete_bricks_lime"},
+    {"predicate": { "custom_model_data": 2009}, "model": "custom/misc_blocks/concrete/concrete_bricks_magenta"},
+    {"predicate": { "custom_model_data": 2010}, "model": "custom/misc_blocks/concrete/concrete_bricks_orange"},
+    {"predicate": { "custom_model_data": 2011}, "model": "custom/misc_blocks/concrete/concrete_bricks_pink"},
+    {"predicate": { "custom_model_data": 2012}, "model": "custom/misc_blocks/concrete/concrete_bricks_purple"},
+    {"predicate": { "custom_model_data": 2013}, "model": "custom/misc_blocks/concrete/concrete_bricks_red"},
+    {"predicate": { "custom_model_data": 2014}, "model": "custom/misc_blocks/concrete/concrete_bricks_white"},
+    {"predicate": { "custom_model_data": 2015}, "model": "custom/misc_blocks/concrete/concrete_bricks_yellow"},
+
+
+    {"predicate": { "custom_model_data": 2100}, "model": "custom/misc_blocks/crates/potato_crate"},
+    {"predicate": { "custom_model_data": 2101}, "model": "custom/misc_blocks/crates/stick_bundle"},
+    {"predicate": { "custom_model_data": 2102}, "model": "custom/misc_blocks/crates/sugar_cane_bundle"},
+    {"predicate": { "custom_model_data": 2103}, "model": "custom/misc_blocks/crates/apple_basket"},
+    {"predicate": { "custom_model_data": 2104}, "model": "custom/misc_blocks/crates/bamboo_bundle"},
+    {"predicate": { "custom_model_data": 2105}, "model": "custom/misc_blocks/crates/beet_crate"},
+    {"predicate": { "custom_model_data": 2106}, "model": "custom/misc_blocks/crates/berry_basket"},
+    {"predicate": { "custom_model_data": 2107}, "model": "custom/misc_blocks/crates/cactus_bundle"},
+    {"predicate": { "custom_model_data": 2108}, "model": "custom/misc_blocks/crates/carrot_crate"},
+
+    {"predicate": { "custom_model_data": 2200}, "model": "custom/misc_blocks/crates/crate_1"},
+    {"predicate": { "custom_model_data": 2201}, "model": "custom/misc_blocks/crates/crate_2"},
+    {"predicate": { "custom_model_data": 2202}, "model": "custom/misc_blocks/crates/crate_3"},
+    {"predicate": { "custom_model_data": 2203}, "model": "custom/misc_blocks/crates/crate_4"},
+
+
+
+    {"predicate": { "custom_model_data": 2310}, "model": "custom/misc_blocks/crystals/blue/blue_crystal_block"},
+    {"predicate": { "custom_model_data": 2311}, "model": "custom/misc_blocks/crystals/green/green_crystal_block"},
+    {"predicate": { "custom_model_data": 2312}, "model": "custom/misc_blocks/crystals/orange/orange_crystal_block"},
+    {"predicate": { "custom_model_data": 2313}, "model": "custom/misc_blocks/crystals/purple/purple_crystal_block"},
+    {"predicate": { "custom_model_data": 2314}, "model": "custom/misc_blocks/crystals/red/red_crystal_block"},
+    {"predicate": { "custom_model_data": 2315}, "model": "custom/misc_blocks/crystals/white/white_crystal_block"},
+    {"predicate": { "custom_model_data": 2316}, "model": "custom/misc_blocks/crystals/yellow/yellow_crystal_block"},
+
+    {"predicate": { "custom_model_data": 2320}, "model": "custom/misc_blocks/crystals/blue/blue_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2321}, "model": "custom/misc_blocks/crystals/green/green_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2322}, "model": "custom/misc_blocks/crystals/orange/orange_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2323}, "model": "custom/misc_blocks/crystals/purple/purple_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2324}, "model": "custom/misc_blocks/crystals/red/red_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2325}, "model": "custom/misc_blocks/crystals/white/white_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2326}, "model": "custom/misc_blocks/crystals/yellow/yellow_crystal_bricks"},
+
+    {"predicate": { "custom_model_data": 2330}, "model": "custom/misc_blocks/crystals/blue/chiseled_blue_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2331}, "model": "custom/misc_blocks/crystals/green/chiseled_green_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2332}, "model": "custom/misc_blocks/crystals/orange/chiseled_orange_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2333}, "model": "custom/misc_blocks/crystals/purple/chiseled_purple_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2334}, "model": "custom/misc_blocks/crystals/red/chiseled_red_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2335}, "model": "custom/misc_blocks/crystals/white/chiseled_white_crystal_bricks"},
+    {"predicate": { "custom_model_data": 2336}, "model": "custom/misc_blocks/crystals/yellow/chiseled_yellow_crystal_bricks"},
+
+    {"predicate": { "custom_model_data": 2340}, "model": "custom/misc_blocks/crystals/blue/blue_crystal_lantern"},
+    {"predicate": { "custom_model_data": 2341}, "model": "custom/misc_blocks/crystals/green/green_crystal_lantern"},
+    {"predicate": { "custom_model_data": 2342}, "model": "custom/misc_blocks/crystals/orange/orange_crystal_lantern"},
+    {"predicate": { "custom_model_data": 2343}, "model": "custom/misc_blocks/crystals/purple/purple_crystal_lantern"},
+    {"predicate": { "custom_model_data": 2344}, "model": "custom/misc_blocks/crystals/red/red_crystal_lantern"},
+    {"predicate": { "custom_model_data": 2345}, "model": "custom/misc_blocks/crystals/white/white_crystal_lantern"},
+    {"predicate": { "custom_model_data": 2346}, "model": "custom/misc_blocks/crystals/yellow/yellow_crystal_lantern"},
+
+
+    {"predicate": { "custom_model_data": 2400}, "model": "custom/misc_blocks/earth/andesite_bricks"},
+    {"predicate": { "custom_model_data": 2401}, "model": "custom/misc_blocks/earth/chiseled_andesite"},
+    {"predicate": { "custom_model_data": 2402}, "model": "custom/misc_blocks/earth/diorite_bricks"},
+    {"predicate": { "custom_model_data": 2403}, "model": "custom/misc_blocks/earth/chiseled_diorite"},
+    {"predicate": { "custom_model_data": 2404}, "model": "custom/misc_blocks/earth/granite_bricks"},
+    {"predicate": { "custom_model_data": 2405}, "model": "custom/misc_blocks/earth/chiseled_granite"},
+    {"predicate": { "custom_model_data": 2406}, "model": "custom/misc_blocks/earth/limestone"},
+    {"predicate": { "custom_model_data": 2407}, "model": "custom/misc_blocks/earth/polished_limestone"},
+    {"predicate": { "custom_model_data": 2408}, "model": "custom/misc_blocks/earth/limestone_bricks"},
+    {"predicate": { "custom_model_data": 2409}, "model": "custom/misc_blocks/earth/chiseled_limestone"},
+    {"predicate": { "custom_model_data": 2410}, "model": "custom/misc_blocks/earth/slate"},
+    {"predicate": { "custom_model_data": 2411}, "model": "custom/misc_blocks/earth/polished_slate"},
+    {"predicate": { "custom_model_data": 2412}, "model": "custom/misc_blocks/earth/slate_bricks"},
+    {"predicate": { "custom_model_data": 2413}, "model": "custom/misc_blocks/earth/chiseled_slate"},
+    {"predicate": { "custom_model_data": 2414}, "model": "custom/misc_blocks/earth/chiseled_stone"},
+
+
+    {"predicate": { "custom_model_data": 2500}, "model": "custom/misc_blocks/lanterns/acacia_paper_lantern"},
+    {"predicate": { "custom_model_data": 2501}, "model": "custom/misc_blocks/lanterns/birch_paper_lantern"},
+    {"predicate": { "custom_model_data": 2502}, "model": "custom/misc_blocks/lanterns/dark_oak_paper_lantern"},
+    {"predicate": { "custom_model_data": 2503}, "model": "custom/misc_blocks/lanterns/fungal_paper_lantern"},
+    {"predicate": { "custom_model_data": 2504}, "model": "custom/misc_blocks/lanterns/jungle_paper_lantern"},
+    {"predicate": { "custom_model_data": 2505}, "model": "custom/misc_blocks/lanterns/oak_paper_lantern"},
+    {"predicate": { "custom_model_data": 2506}, "model": "custom/misc_blocks/lanterns/spruce_paper_lantern"},
+    
+
+    {"predicate": { "custom_model_data": 2600}, "model": "custom/misc_blocks/mushroom/fungal_planks"},
+    {"predicate": { "custom_model_data": 2601}, "model": "custom/misc_blocks/mushroom/fungal_planks_carved"},
+
+    {"predicate": { "custom_model_data": 2700}, "model": "custom/misc_blocks/mushroom/fungal_planks_black"},
+    {"predicate": { "custom_model_data": 2701}, "model": "custom/misc_blocks/mushroom/fungal_planks_blue"},
+    {"predicate": { "custom_model_data": 2702}, "model": "custom/misc_blocks/mushroom/fungal_planks_brown"},
+    {"predicate": { "custom_model_data": 2703}, "model": "custom/misc_blocks/mushroom/fungal_planks_cyan"},
+    {"predicate": { "custom_model_data": 2704}, "model": "custom/misc_blocks/mushroom/fungal_planks_gray"},
+    {"predicate": { "custom_model_data": 2705}, "model": "custom/misc_blocks/mushroom/fungal_planks_green"},
+    {"predicate": { "custom_model_data": 2706}, "model": "custom/misc_blocks/mushroom/fungal_planks_light_blue"},
+    {"predicate": { "custom_model_data": 2707}, "model": "custom/misc_blocks/mushroom/fungal_planks_light_gray"},
+    {"predicate": { "custom_model_data": 2708}, "model": "custom/misc_blocks/mushroom/fungal_planks_lime"},
+    {"predicate": { "custom_model_data": 2709}, "model": "custom/misc_blocks/mushroom/fungal_planks_magenta"},
+    {"predicate": { "custom_model_data": 2710}, "model": "custom/misc_blocks/mushroom/fungal_planks_orange"},
+    {"predicate": { "custom_model_data": 2711}, "model": "custom/misc_blocks/mushroom/fungal_planks_pink"},
+    {"predicate": { "custom_model_data": 2712}, "model": "custom/misc_blocks/mushroom/fungal_planks_purple"},
+    {"predicate": { "custom_model_data": 2713}, "model": "custom/misc_blocks/mushroom/fungal_planks_red"},
+    {"predicate": { "custom_model_data": 2714}, "model": "custom/misc_blocks/mushroom/fungal_planks_white"},
+    {"predicate": { "custom_model_data": 2715}, "model": "custom/misc_blocks/mushroom/fungal_planks_yellow"},
+
+
+    {"predicate": { "custom_model_data": 2800}, "model": "custom/misc_blocks/planks/acacia_planks_carved"},
+    {"predicate": { "custom_model_data": 2801}, "model": "custom/misc_blocks/planks/birch_planks_carved"},
+    {"predicate": { "custom_model_data": 2802}, "model": "custom/misc_blocks/planks/dark_oak_planks_carved"},
+    {"predicate": { "custom_model_data": 2803}, "model": "custom/misc_blocks/planks/jungle_planks_carved"},
+    {"predicate": { "custom_model_data": 2804}, "model": "custom/misc_blocks/planks/oak_planks_carved"},
+    {"predicate": { "custom_model_data": 2805}, "model": "custom/misc_blocks/planks/spruce_planks_carved"},
+
+
+    {"predicate": { "custom_model_data": 2900}, "model": "custom/misc_blocks/shoji/shoji_block"},
+
+
+    {"predicate": { "custom_model_data": 2901}, "model": "custom/misc_blocks/terracotta/terracotta_shingles"},
+
+    {"predicate": { "custom_model_data": 3000}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_black"},
+    {"predicate": { "custom_model_data": 3001}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_blue"},
+    {"predicate": { "custom_model_data": 3002}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_brown"},
+    {"predicate": { "custom_model_data": 3003}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_cyan"},
+    {"predicate": { "custom_model_data": 3004}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_gray"},
+    {"predicate": { "custom_model_data": 3005}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_green"},
+    {"predicate": { "custom_model_data": 3006}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_light_blue"},
+    {"predicate": { "custom_model_data": 3007}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_light_gray"},
+    {"predicate": { "custom_model_data": 3008}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_lime"},
+    {"predicate": { "custom_model_data": 3009}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_magenta"},
+    {"predicate": { "custom_model_data": 3010}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_orange"},
+    {"predicate": { "custom_model_data": 3011}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_pink"},
+    {"predicate": { "custom_model_data": 3012}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_purple"},
+    {"predicate": { "custom_model_data": 3013}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_red"},
+    {"predicate": { "custom_model_data": 3014}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_white"},
+    {"predicate": { "custom_model_data": 3015}, "model": "custom/misc_blocks/terracotta/terracotta_shingles_yellow"}
+  ]
+}

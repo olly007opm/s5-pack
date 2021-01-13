@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/wooden_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/wood/longsword_wood"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/wood/katana_wood"},
+		{"predicate": {"custom_model_data":1000003}, "model": "item/wood/scythe_wood"},
+		{"predicate": {"custom_model_data":1000004}, "model": "item/wood/spear_wood"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/wood/rapier_wood"},
+		{"predicate": {"custom_model_data":1000006}, "model": "item/wood/knife_wood"}
+	]
+}

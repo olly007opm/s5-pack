@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "item/stone_sword"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":1000001}, "model": "item/stone/longsword_stone"},
+		{"predicate": {"custom_model_data":1000002}, "model": "item/stone/katana_stone"},
+		{"predicate": {"custom_model_data":1000003}, "model": "item/stone/scythe_stone"},
+		{"predicate": {"custom_model_data":1000004}, "model": "item/stone/spear_stone"},
+		{"predicate": {"custom_model_data":1000005}, "model": "item/stone/rapier_stone"},
+		{"predicate": {"custom_model_data":1000006}, "model": "item/stone/knife_stone"}
+	]
+}

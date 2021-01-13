@@ -1,0 +1,151 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-black.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE100"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-red.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE101"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-green.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE102"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-brown.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE103"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-blue.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE104"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-purple.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE105"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-cyan.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE106"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-light_gray.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE107"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-gray.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE108"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-pink.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE109"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-lime.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE10A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-yellow.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE10B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-light_blue.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE10C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-magenta.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE10D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-orange.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE10E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/box-white.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE10F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/postbox-default.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE110"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/postbox-space.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE111"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/postbox-red.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE112"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/postboxbox-green.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE113"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/postbox-blue.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": ["\uE114"]
+        }
+    ]
+}
